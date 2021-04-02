@@ -2,7 +2,6 @@ import os
 import re
 import json
 
-
 #Do not touch anything besides the webhook_url & ping_me values unless you are experienced and know what you are doing
 #-------------------------------------------------------
 webhook_url = 'webhook_url_here' #Self explanatory, integrations > webhooks > copy webhook url > then paste inside ''
