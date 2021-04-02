@@ -1,7 +1,7 @@
 <h1>Token Grabber</h1>
 <p>A Discord token grabber written in Python compiled into EXE.</p>
 
-This version of the grabber only supports **Windows**.
+Operating System: **Windows**
 
 # Features
  - No local caching
