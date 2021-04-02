@@ -4,10 +4,8 @@
 Operating System: **Windows**
 
 # Features
- - No local caching
  - Transfers via Discord webhook
  - Searches for authorization tokens in multiple directories
- - No external Python modules required
 
 <br>
 
