@@ -19,4 +19,4 @@ Operating System: **Windows**
  7. You are done, once someone runs the exe file it'll send you the tokens that were found on the computer it was executed in
 
 
-# This is for educational purposes only, I'm not responsible for that for anything you do
+# THIS IS FOR EDUCATIONAL PURPOSES ONLY, I'M NOT RESPONSIBLE FOR YOUR ACTS
