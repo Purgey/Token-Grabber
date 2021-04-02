@@ -1,1 +1,0 @@
-pyinstaller grabber.py --onefile
