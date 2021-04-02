@@ -4,8 +4,8 @@
 Operating System: **Windows**
 
 # Features
- - Transfers via Discord webhook
- - Searches for authorization tokens in multiple directories
+ - Transfers completely through Discord's api
+ - Searches for tokens in multiple directories
 
 <br>
 
@@ -17,3 +17,6 @@ Operating System: **Windows**
  5. Go to the generated folder/directory called "dist"
  6. Copy and share the exe file with your victim
  7. You are done, once someone runs the exe file it'll send you the tokens that were found on the computer it was executed in
+
+
+# This is for educational purposes only, I'm not responsible for that for anything you do
