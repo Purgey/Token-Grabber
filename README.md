@@ -7,8 +7,6 @@ Operating System: **Windows**
  - Transfers completely through Discord's api
  - Searches for tokens in multiple directories
 
-<br>
-
 # Steps
  1. Create a webhook
  2. Change the two valuables in grabber.py
